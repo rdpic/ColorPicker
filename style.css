@@ -1,0 +1,61 @@
+@charset "utf-8";
+#titolo {
+    color: red;
+    font-size: 64px;
+    margin: auto;
+}
+
+#sottotitolo {
+    color: red;
+    margin-left: auto;
+}
+
+#colorBtn1 {
+    width: 64px;
+    height: 64px;
+    background-color: red;
+    color: Red;
+}
+
+
+#colorBtn2 {
+    width: 64px;
+    height: 64px;
+    background-color: Green;
+    color: Green;
+}
+
+#colorBtn3 {
+    width: 64px;
+    height: 64px;
+    background-color: Blue;
+    color: Blue;
+}
+
+
+
+#colorBtn4 {
+    width: 64px;
+    height: 64px;
+    background-color: Purple;
+    color: Purple;
+}
+
+#colorBtn5 {
+    width: 64px;
+    height: 64px;
+    background-color: Aqua;
+    color: Aqua;
+}
+
+
+
+#colorBtn6 {
+    width: 64px;
+    height: 64px;
+    background-color: Gold;
+    color: Gold;
+}
+
+
+
